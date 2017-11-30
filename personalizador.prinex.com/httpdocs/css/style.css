@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css?family=Molengo');
+    #b1,#b2,#b3{
+      border-radius: 1em;
+    }
+    span{
+      float: right;
+      margin-right: 1em;
+    }
+    .data1{
+      padding-bottom:1em !important; 
+      margin-top: 1em;
+    }
+    .data2{
+      padding-bottom:1em !important; 
+      margin-top: 1em;
+    }
+    .data3{
+      padding-bottom:1em !important; 
+      margin-top: 1em;
+    }
+    .btn-primary span {
+      margin-left: 51em;
+      margin-top: 0.5em;
+    }
+
+    .img-circle {
+      border-style: solid;
+      border-color: #ccddff;
+      border-width: 7px;
+      z-index: 1;
+
+    }
+
+    .tituloContenido {
+      background-color: #ccddff;
+      border-radius: 1.5em;
+      margin-left: -1em;
+    
+    }
+    .titulo{
+      font-weight: bold;
+      margin-left: 1em;
+       float: left;
+       margin-top: 0.5em;
+       margin-bottom: 0.5em;
+    }
+
+
+.tituloContenido p{
+  display: inline;
+}
+.nombre{
+  margin-left: 7.5em;
+}
+.codi{
+  margin-left:1em;
+}
+
+    .col-sm-6 {
+      z-index: -1;
+      position: inherit !important;
+    }
+
+    .variantes {
+      display: block;
+    }
+
+    .variante {
+      margin-top: 0.5em;
+    }
+
+    .variante p {
+      display: inline;
+      color: #3377ff;
+      font-weight: bold;
+    }
+    .precio{
+      margin-left: -1em;
+      margin-right: 0.5em;
+    }
+    .variantePrecio{
+      margin-left: 24em;
+    }
+    .check{
+      float: right;
+      margin-right:1em !important;
+    }
+
+.nombreVariante{
+  margin-left: 7em;
+}
+    .variante input {
+      margin-left: 0.8em;
+    }
+
+    .variante span {
+      margin-left: 28em;
+    }
+
+    #data1 {
+      margin-top: 1em;
+
+    }
+
+    .contenido {
+      text-align: left;
+      margin-left: 7em;
+      margin-top: 1em;
+    }
+    .links{
+      margin-left: 7em;
+      margin-top:1em;
+    }
+
+    .presupuesto{
+
+margin-left: 7em;
+    }
+
+    .favoritos{
+ 
+      margin-right: 2em;
+      margin-left: 1em;
+    
+    }
+
+
+  /* botones*/
+        .presupuesto img{
+width: 1em;
+height: auto;
+
+    }
+    .favoritos img{
+      width: 1em;
+      height: auto;
+      
+          }
+
+ /*backgrounds*/ 
+ #bg1{
+   background-image: url("../image/prinex_barra.png");
+   background-repeat: no-repeat;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   background-position: center;
+   -o-background-size: cover;
+   min-height: 200px;
+ }
+ 
+    /* codigo antoni  */
+
+    
+.main-header{
+  height: 150px;
+  position: relative;
+}
+li{
+  display: inline;
+}
+.nav_header{
+  float: right;
+  margin-top: 2em;
+  margin-right: 2em;
+}
+.icono_header{
+  float: left;
+  margin-top: 2em;
+}
+.h1_header{
+  float: left;
+  margin-left: 10em;
+
+}
+.table-hover > tbody > tr:hover {
+  background-color: #cccccc !important;
+}
+.table-hover > tbody > tr:hover:nth-child(1) {
+  background-color: #1d5b96 !important;
+}
+tr:nth-child(1){
+  background-color: #1d5b96;
+}
+tr:nth-child(1)>td{
+  color: white;
+  font-size: 20px;
+  text-align:center;
+  padding: 1em !important;
+}
+.info{
+  background-color: #f2f4f9 !important;
+  color: #205d97 !important;
+}
+table{
+
+  width: 800px !important;
+  align-items:  center !important;
+  margin: auto;
+  margin-top: 4em;
+    
+}
+table td {
+  width: 25%;
+  text-align: center;
+}

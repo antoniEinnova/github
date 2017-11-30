@@ -1,0 +1,17 @@
+[Thu Nov 23 11:46:38.831663 2017] [ssl:warn] [pid 35541:tid 139771087956096] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:46:38.863247 2017] [ssl:warn] [pid 35541:tid 139771087956096] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:50:49.978640 2017] [ssl:warn] [pid 36256:tid 139784036337792] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:50:50.009168 2017] [ssl:warn] [pid 36256:tid 139784036337792] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:51:06.975487 2017] [ssl:warn] [pid 36624:tid 140598173669504] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:51:07.007741 2017] [ssl:warn] [pid 36624:tid 140598173669504] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:53:03.793705 2017] [ssl:warn] [pid 37076:tid 140095541000320] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:53:03.824013 2017] [ssl:warn] [pid 37076:tid 140095541000320] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:53:49.081317 2017] [ssl:warn] [pid 37473:tid 139818644449408] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 11:53:49.111336 2017] [ssl:warn] [pid 37473:tid 139818644449408] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 13:37:16.526268 2017] [ssl:warn] [pid 40195:tid 139727781349504] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 13:37:16.557299 2017] [ssl:warn] [pid 40195:tid 139727781349504] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 14:02:30.950088 2017] [ssl:warn] [pid 41263:tid 140075747997824] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 14:02:30.980804 2017] [ssl:warn] [pid 41263:tid 140075747997824] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 18:55:36.562718 2017] [ssl:warn] [pid 46178:tid 139721320147072] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Thu Nov 23 18:55:36.593350 2017] [ssl:warn] [pid 46178:tid 139721320147072] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
+[Sun Nov 26 03:42:42.570805 2017] [ssl:warn] [pid 46178:tid 139721320147072] AH01909: RSA certificate configured for personalizador.prinex.com:443 does NOT include an ID which matches the server name
